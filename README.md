@@ -149,7 +149,6 @@ The system expects a JSON file with the following structure:
 ### 2. Vector Storage
 - Uses Chroma for local vector database
 - Stores document embeddings for semantic search
-- Supports metadata filtering
 
 ### 3. Conversation Management
 - Implements LangGraph's `MessagesState` for conversation tracking
