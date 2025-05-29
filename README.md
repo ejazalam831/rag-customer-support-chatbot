@@ -54,7 +54,7 @@ rag-customer-support-chatbot/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/rag-customer-support-chatbot.git
+   git clone https://github.com/ejazalam831/rag-customer-support-chatbot.git
    cd rag-customer-support-chatbot
    ```
 
@@ -73,7 +73,7 @@ rag-customer-support-chatbot/
    - The notebook will prompt you to enter your API key if not found
 
 3. **Run the notebook**
-   - Open `notebook.ipynb` in Jupyter or Google Colab
+   - Open `rag_customer_support_chatbot.ipynb` in Jupyter or Google Colab
    - Run all cells sequentially
    - The Gradio interface will launch automatically
 
